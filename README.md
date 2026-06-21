@@ -52,7 +52,7 @@ This is a **frontend-only** marketing landing page with no backend. All buttons 
 ### Installation
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/codehub.git
+git clone https://github.com/wencyone/codehub.git
 cd codehub
 npm install
 ```
